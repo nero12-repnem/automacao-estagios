@@ -41,4 +41,4 @@ O repositório não deve conter e-mails reais, PDFs de estudantes, dados pessoai
 - Adicionar tratamento de erros e logs
 
 ## Autor
-Enzo
+Enzo da Rosa Severino
