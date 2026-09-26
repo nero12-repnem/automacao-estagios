@@ -1,0 +1,11 @@
+Python
+.env
+.env.*
+!.env.example
+credentials.*
+secrets.*
+*.pdf
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
